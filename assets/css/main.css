@@ -565,9 +565,7 @@ body.overlay {
     -webkit-background-size: cover;
     overflow: hidden;
     position: relative;
-    /*min-height: 100vh;*/
-    /*max-height: 800px;*/
-    height: 800px;
+    min-height: 100vh;
     padding: 50px 0;
 } /*
 .main-block:after {
